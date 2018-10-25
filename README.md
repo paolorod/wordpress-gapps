@@ -1,2 +1,3 @@
 # wordpress-gapps
-Data Ops institute codebase
+
+Simple codebase of a gapps based wordpress site
